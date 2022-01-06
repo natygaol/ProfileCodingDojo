@@ -75,7 +75,7 @@ div {
 .card-header {
   background-color: #17a2b8;
   height: 125px;
-  margin-bottom: 70px;
+
 }
 
 img {
@@ -92,3 +92,21 @@ img {
   background-color: white;
 }
 
+.card-body {
+  padding: 20px;
+}
+
+.card-body h1, 
+.card-body h2,
+.card-body h3,
+.card-body p {
+    margin: 20px 0px;
+}
+
+.card-body img {
+  height: 15px;
+}
+
+a {
+  color: #3a81e6;
+}
