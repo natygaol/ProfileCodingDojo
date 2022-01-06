@@ -103,10 +103,27 @@ img {
     margin: 20px 0px;
 }
 
-.card-body img {
-  height: 15px;
+.avatar-m {
+  border-radius: 50%;
+  background-color: #fff;
+  height: 190px;
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.icon-s {
+  height: 20px;
 }
 
 a {
   color: #3a81e6;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+  display: flex;
 }
